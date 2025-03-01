@@ -33,7 +33,7 @@ https://zhuanlan.zhihu.com/p/248406797
 https://zhuanlan.zhihu.com/p/622654876
 
 ## Marching Cube & Dual Contouring
-https://www.bilibili.com/video/BV1iL4y1K74G/?spm_id_from=333.999.0.0&vd_source=ab7441f8ee249ea83fe4c13952199372
+https://www.bilibili.com/video/BV1iL4y1K74G/
 
 ## TODO
 VSSM, 光照探针
