@@ -16,5 +16,24 @@ https://blog.csdn.net/qq_26625581/article/details/122483449
 ## 路径追踪 SDF PBR
 https://github.com/ouerkakaChango/UnityRayTrace
 
+## 大气模拟
+https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering
+
+https://airguanz.github.io/articles/2021.06.011.Atmosphere-Rendering
+
+https://blog.csdn.net/DL960722/article/details/107716080
+
+https://zhuanlan.zhihu.com/p/363864193
+
+https://zhuanlan.zhihu.com/p/344296264
+
+## 体积云模拟
+https://zhuanlan.zhihu.com/p/248406797
+
+https://zhuanlan.zhihu.com/p/622654876
+
+## Marching Cube & Dual Contouring
+https://www.bilibili.com/video/BV1iL4y1K74G/?spm_id_from=333.999.0.0&vd_source=ab7441f8ee249ea83fe4c13952199372
+
 ## TODO
 VSSM, 光照探针
