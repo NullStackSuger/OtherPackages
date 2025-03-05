@@ -35,5 +35,10 @@ https://zhuanlan.zhihu.com/p/622654876
 ## Marching Cube & Dual Contouring
 https://www.bilibili.com/video/BV1iL4y1K74G/
 
+## NavMesh
+https://www.bilibili.com/video/BV1PtwreXERv/
+
+https://zhuanlan.zhihu.com/p/454839684
+
 ## TODO
 VSSM, 光照探针
