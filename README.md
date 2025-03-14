@@ -36,9 +36,7 @@ https://zhuanlan.zhihu.com/p/622654876
 https://www.bilibili.com/video/BV1iL4y1K74G/
 
 ## NavMesh
-https://www.bilibili.com/video/BV1PtwreXERv/
-
-https://zhuanlan.zhihu.com/p/454839684
+太多了,项目里PPT里有参考链接
 
 ## TODO
 VSSM, 光照探针
