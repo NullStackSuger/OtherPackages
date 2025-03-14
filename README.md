@@ -38,5 +38,8 @@ https://www.bilibili.com/video/BV1iL4y1K74G/
 ## NavMesh
 太多了,项目里PPT里有参考链接
 
+## 波函数坍塌
+https://www.bilibili.com/video/BV1Hh4y157yF
+
 ## TODO
 VSSM, 光照探针
