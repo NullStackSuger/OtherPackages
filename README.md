@@ -41,5 +41,8 @@ https://www.bilibili.com/video/BV1iL4y1K74G/
 ## 波函数坍塌
 https://www.bilibili.com/video/BV1Hh4y157yF
 
+## ORCA
+https://zhuanlan.zhihu.com/p/669426124
+
 ## TODO
 VSSM, 光照探针
